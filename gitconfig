@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jiaxinxu0614@gmail.com
+	name = jiaxin xu
